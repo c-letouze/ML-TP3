@@ -3,4 +3,4 @@
 
 The PW subject can be found at https://github.com/HeuJulien/ML-P6-2020
 
-Notebook 'TP3_GradientDescent.ipynb' and TP3_LogisticRegression.ipynb' by Coraline Letouzé
+Notebooks 'TP3_LogisticRegression.ipynb' and TP3_SoftMaxRegression.ipynb' by Coraline Letouzé
